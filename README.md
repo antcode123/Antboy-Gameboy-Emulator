@@ -1,7 +1,7 @@
 # `Antboy - C++ Gameboy Emulator`
 
 ## `Overview`
-This project is my AQA Computer Science NEA submission. As a long-time fan of classic Gameboy games like *Tetris DX*, *F-1 Race* and *Super Mario Land*, I aimed to create a Gameboy emulator that provides a smooth and enjoyable experience while also challenging myself with a complex but rewarding programming task. You can view the [Antboy demo here.](https://www.youtube.com/@Antcode-123)
+This project is my AQA Computer Science NEA submission. As a long-time fan of classic Gameboy games like *Tetris DX*, *F-1 Race* and *Super Mario Land*, I aimed to create a Gameboy emulator that provides a smooth and enjoyable experience while also challenging myself with a complex but rewarding programming task. You can view the [**Antboy demo here.**](https://www.youtube.com/@Antcode-123)
 [![Antboy Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/@Antcode-123)
 
 Developing this emulator has deepened my understanding of programming and computer science concepts, including:
@@ -50,7 +50,7 @@ This emulator accurately reproduces most functionality of the original Gameboy a
 ## `Rund & Build Instructions *Currently Windows Only*`
 ### `Running the Emulator`
 - Clone the repository
-- Download the `antboy.exe` file from the [latest release](https://github.com/antcode123/Antboy-Gameboy-Emulator/releases/tag/v0.1) and place within the root directory
+- Download the `antboy.exe` file from the [**latest release**](https://github.com/antcode123/Antboy-Gameboy-Emulator/releases/tag/v0.1) and place within the root directory
 - Place your ROMs in the `Assets/ROMs` directory.
 - Launch `antboy.exe` and enjoy playing your classic Gameboy games!
 
@@ -123,7 +123,7 @@ Controls are separated into system controls (controls used for navigating the UI
 ## `Research Resources`
 The following resources were invaluable in gaining a deep understanding of how to emulate the Gameboy:
 
-- [**Pan Docs**](https://gbdev.io/pandocs/): Provides an in-depth explanation of the Gameboy architecture. Though the older GBdev Wiki ([https://gbdev.gg8.se/wiki/articles/Pan\_Docs#Other](https://gbdev.gg8.se/wiki/articles/Pan_Docs#Other)) contains some mistakes, it offers concise explanations.
+- [**Pan Docs**](https://gbdev.io/pandocs/): Provides an in-depth explanation of the Gameboy architecture. Though the older GBdev Wiki ([**GBdev Wiki**](https://gbdev.gg8.se/wiki/articles/Pan_Docs#Other)) contains some mistakes, it offers concise explanations.
 - [**Gameboy CPU Manual**](http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf): The official technical manual for the Gameboy, offering detailed documentation on the system and definitions for CPU instruction set opcodes.
 - [**CPU Opcode Table**](https://meganesu.github.io/generate-gb-opcodes/): A user-friendly UI for CPU opcodes with detailed explanations of their functionality.
 - [**MGBA.io**](https://mgba.io/2017/04/30/emulation-accuracy/)
