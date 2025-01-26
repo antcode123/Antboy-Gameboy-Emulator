@@ -2,7 +2,7 @@
 
 ## `Overview`
 This project is my AQA Computer Science NEA submission. As a long-time fan of classic Gameboy games like *Tetris DX*, *F-1 Race* and *Super Mario Land*, I aimed to create a Gameboy emulator that provides a smooth and enjoyable experience while also challenging myself with a complex but rewarding programming task. You can view the [**Antboy demo here.**](https://www.youtube.com/@Antcode-123)
-[![](https://img.youtube.com/vi/mcouanXRFb4/maxresdefault.jpg)](https://www.youtube.com/watch?v=mcouanXRFb4)
+[![Antboy Demo](https://img.youtube.com/vi/mcouanXRFb4/maxresdefault.jpg)](https://www.youtube.com/watch?v=mcouanXRFb4)
 
 Developing this emulator has deepened my understanding of programming and computer science concepts, including:
 
