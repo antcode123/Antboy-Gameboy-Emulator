@@ -123,14 +123,14 @@ Controls are separated into system controls (controls used for navigating the UI
 ## `Research Resources`
 The following resources were invaluable in gaining a deep understanding of how to emulate the Gameboy:
 
-- **Pan Docs** - [https://gbdev.io/pandocs/](https://gbdev.io/pandocs/): Provides an in-depth explanation of the Gameboy architecture. Though the older GBdev Wiki ([https://gbdev.gg8.se/wiki/articles/Pan\_Docs#Other](https://gbdev.gg8.se/wiki/articles/Pan_Docs#Other)) contains some mistakes, it offers concise explanations.
-- **Gameboy CPU Manual** - [http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf](http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf): The official technical manual for the Gameboy, offering detailed documentation on the system and definitions for CPU instruction set opcodes.
-- **CPU Opcode Table** - [https://meganesu.github.io/generate-gb-opcodes/](https://meganesu.github.io/generate-gb-opcodes/): A user-friendly UI for CPU opcodes with detailed explanations of their functionality.
-- **MGBA.io** - [https://mgba.io/2017/04/30/emulation-accuracy/](https://mgba.io/2017/04/30/emulation-accuracy/)
-- **Sameboy** - [https://sameboy.github.io/](https://sameboy.github.io/) and **BGB** - [https://bgb.bircd.org/](https://bgb.bircd.org/): Two cycle-accurate Gameboy emulators used as debugging tools and inspiration.
-- **Blargg’s Test ROMs** - [https://github.com/retrio/gb-test-roms](https://github.com/retrio/gb-test-roms) and **Mooneye Test Suite** - [https://github.com/Gekkio/mooneye-test-suite](https://github.com/Gekkio/mooneye-test-suite): Collections of test ROMs for testing emulator accuracy.
-- **Hacktix Gameboy Emulator Guide** - [https://hacktix.github.io/GBEDG/](https://hacktix.github.io/GBEDG/): Useful for understanding MBC implementations which aren't very well documented.
-- **The Gameboy Doctor** - [https://robertheaton.com/gameboy-doctor/](https://robertheaton.com/gameboy-doctor/): A tool for debugging CPU opcodes by comparing logs of executed instructions with a reference emulator. It was instrumental in correcting opcode implementation errors.
+- [**Pan Docs**](https://gbdev.io/pandocs/): Provides an in-depth explanation of the Gameboy architecture. Though the older GBdev Wiki ([https://gbdev.gg8.se/wiki/articles/Pan\_Docs#Other](https://gbdev.gg8.se/wiki/articles/Pan_Docs#Other)) contains some mistakes, it offers concise explanations.
+- [**Gameboy CPU Manual**](http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf): The official technical manual for the Gameboy, offering detailed documentation on the system and definitions for CPU instruction set opcodes.
+- [**CPU Opcode Table**](https://meganesu.github.io/generate-gb-opcodes/): A user-friendly UI for CPU opcodes with detailed explanations of their functionality.
+- [**MGBA.io**](https://mgba.io/2017/04/30/emulation-accuracy/)
+- [**Sameboy**](https://sameboy.github.io/) and **BGB** - [https://bgb.bircd.org/](https://bgb.bircd.org/): Two cycle-accurate Gameboy emulators used as debugging tools and inspiration.
+- [**Blargg’s Test ROMs**](https://github.com/retrio/gb-test-roms) and **Mooneye Test Suite** - [https://github.com/Gekkio/mooneye-test-suite](https://github.com/Gekkio/mooneye-test-suite): Collections of test ROMs for testing emulator accuracy.
+- [**Hacktix Gameboy Emulator Guide**](https://hacktix.github.io/GBEDG/): Useful for understanding MBC implementations which aren't very well documented.
+- [**The Gameboy Doctor**](https://robertheaton.com/gameboy-doctor/): A tool for debugging CPU opcodes by comparing logs of executed instructions with a reference emulator. It was instrumental in correcting opcode implementation errors.
 
 ---
 
