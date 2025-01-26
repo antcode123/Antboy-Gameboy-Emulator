@@ -49,12 +49,13 @@ This emulator accurately reproduces most functionality of the original Gameboy a
 
 ## `Rund & Build Instructions *Currently Windows Only*`
 ### `Running the Emulator`
-- Download the zipped folder containing the executable and assets here:
-- Place your ROMs in the `ROMs` directory.
+- Download the `antboy.exe` file and place within the root directory
+- Place your ROMs in the `Assets/ROMs` directory.
 - Launch `antboy.exe` and enjoy playing your classic Gameboy games!
 
 ### `Building the Emulator`
-- Ensure a C++ compiler and CMake are installed and added to your PATH.
+- Clone the repository
+- Ensure you have MinGW, CMake and Ninja installed and added to your PATH.
 - Run the provided build batch script to compile the project.
 
 ### `Notes`
