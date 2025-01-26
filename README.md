@@ -49,7 +49,8 @@ This emulator accurately reproduces most functionality of the original Gameboy a
 
 ## `Rund & Build Instructions *Currently Windows Only*`
 ### `Running the Emulator`
-- Download the `antboy.exe` file and place within the root directory
+- Clone the repository
+- Download the `antboy.exe` file from the [latest release]() and place within the root directory
 - Place your ROMs in the `Assets/ROMs` directory.
 - Launch `antboy.exe` and enjoy playing your classic Gameboy games!
 
