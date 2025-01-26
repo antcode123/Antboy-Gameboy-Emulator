@@ -12,8 +12,6 @@ Developing this emulator has deepened my understanding of programming and comput
 - Bitwise operations
 - Debugging skills
 
-This emulator accurately reproduces most functionality of the original Gameboy and offers features like a user-friendly interface, configurable settings, and automatic saving for battery-packed cartridges.
-
 ---
 
 ## `Screenshots`
@@ -28,6 +26,8 @@ This emulator accurately reproduces most functionality of the original Gameboy a
 ---
 
 ## `Features`
+This emulator accurately reproduces most functionality of the original Gameboy and offers features like a user-friendly interface, configurable settings, and automatic saving for battery-packed cartridges.
+
 ### `In-scope`
 - Accurate emulation of the Gameboy CPU
 - Accurate graphics emulation
