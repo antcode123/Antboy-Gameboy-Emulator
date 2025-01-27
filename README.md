@@ -56,7 +56,7 @@ This emulator accurately reproduces most functionality of the original Gameboy a
 
 ### `Building the Emulator`
 - Clone the repository
-- Ensure you have Git, MinGW, CMake and Ninja installed and added to your PATH.
+- Ensure you have Git, MinGW (MSCVRT runtime), CMake and Ninja installed and added to your PATH.
 - Ensure you have an internet connection as you will be fetching SFML from github.
 - Run the provided build batch script to build Antboy.
 
