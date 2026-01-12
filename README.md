@@ -8,8 +8,7 @@ Developing this emulator has deepened my understanding of programming and comput
 
 - Systems architecture
 - Object-oriented programming
-- Low-level programming
-- Bitwise operations
+- Low-level programming & operations
 - Debugging skills
 
 ---
@@ -47,7 +46,7 @@ This emulator accurately reproduces most functionality of the original Gameboy a
 
 ---
 
-## `Rund & Build Instructions *Currently Windows Only*`
+## `Run & Build Instructions *Currently Windows Only*`
 ### `Running the Emulator`
 - Clone the repository
 - Download the `antboy.exe` file from the [**latest release**](https://github.com/antcode123/Antboy-Gameboy-Emulator/releases/tag/v0.1) and place within the root directory
